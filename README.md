@@ -1,45 +1,18 @@
 # Project: Dog Breed Classifier
 
-### Summary:
+## Summary:
 This project is part of the Udacity Data Scientis Nanodegree.
 
 The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture.
 
 
-
-### Libraries & Installations:
+## Libraries & Installations:
 A full list of requirements can be found under requirements/requirements.txt
 
 To install all Python packages in the requirements.txt file run pip install -r requirements.txt
 
 
-
-### Files:
-There are three main folders in this project:
-- data
-- models
-- app
-
-Data contains the "process_data.py" script which reads in the "disaster_categories/messages.csv" files, cleans them and stores them into a sqlite database called "DisasterResponse.db".
-
-Models contains the train_classifier.py script which use the "DisasterResponse.db" to load it´s data. Additionally it sets up a ML pipeline, fits and evaluates the model and saves it to a picke "classifier.pkl" file in the end. 
-
-App contains the "run.py" script which sets up the website, the visualizations and the server.
-
-[//]: # (Image References)
-
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
-
-
-## Project Overview
-
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
-
-![Sample Output][image1]
-
-Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app.  Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Your imperfect solution will nonetheless create a fun user experience!
+## Files:
 
 ## Project Instructions
 
