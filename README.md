@@ -1,4 +1,4 @@
-Project: Dog Breed Classifier
+# Project: Dog Breed Classifier
 
 ### Summary:
 This project is part of the Udacity Data Scientis Nanodegree. The goal of this project is to apply the data engineering skills learned in the course to analyze disaster data to build a model that classifies disaster messages. 
