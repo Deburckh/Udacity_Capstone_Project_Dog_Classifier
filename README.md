@@ -3,7 +3,7 @@
 ## Summary:
 This project is part of the Udacity Data Scientis Nanodegree.
 
-The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture.
+The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture. Furthermore if a given picture shows a human, the model classifies the dog breed that is the most ressembling. 
 
 ## Libraries & Installations:
 A full list of requirements can be found under `requirements/requirements.txt`
