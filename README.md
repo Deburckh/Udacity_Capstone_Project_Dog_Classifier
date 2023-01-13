@@ -3,7 +3,9 @@
 ## Summary:
 This project is part of the Udacity Data Scientis Nanodegree.
 
-The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture. Furthermore if a given picture shows a human, the model classifies the dog breed that is the most ressembling. 
+The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture. Furthermore if a given picture shows a human, the model classifies the dog breed that is the most ressembling.
+
+![Alt text](https://github.com/Deburckh/Udacity_Capstone_Project_Dog_Classifier/blob/main/images/Labrador_retriever_06449.jpg?raw=true "Title")
 
 ## Libraries & Installations:
 A full list of requirements can be found under `requirements/requirements.txt`
