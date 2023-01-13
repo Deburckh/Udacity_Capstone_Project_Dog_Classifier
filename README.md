@@ -1,18 +1,12 @@
 # Project: Dog Breed Classifier
 
 ### Summary:
-This project is part of the Udacity Data Scientis Nanodegree. The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture.
+This project is part of the Udacity Data Scientis Nanodegree.
+The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture.
 
 ### Libraries & Installations:
-- Python Version 3.6.3
-- numpy
-- pandas
-- nltk
-- sklearn
-- sqlalchemy
-
-A full list of requirements can be found under the requirements.txt file. 
-To install all Python packages written in the requirements.txt file run pip install -r requirements.txt.
+A full list of requirements can be found under requirements/requirements.txt
+To install all Python packages in the requirements.txt file run pip install -r requirements.txt
 
 ### Files:
 There are three main folders in this project:
