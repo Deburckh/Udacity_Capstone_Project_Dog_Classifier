@@ -5,14 +5,10 @@ This project is part of the Udacity Data Scientis Nanodegree.
 
 The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture.
 
-
 ## Libraries & Installations:
 A full list of requirements can be found under requirements/requirements.txt
 
 To install all Python packages in the requirements.txt file run pip install -r requirements.txt
-
-
-## Files:
 
 ## Project Instructions
 
