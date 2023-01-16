@@ -10,13 +10,13 @@ The goal of this project is to apply the data science skills learned in the cour
 
 ## Files 
 
-- dog_app.ipynb: Main notebook in which the image classifier is trained.
-- extract_bottleneck_features.py: Extracts the downloaded bottleneck features in /bottleneck_features.
-- bottleneck_features: Contains the bottleneck features that can be downloaded.
-- haarcascades: Haar feature-based cascade classifiers for face detection.
-- images: Contain images that were used in the notebook.
-- requirements: Requirements to run the project such as imports, libraries, etc.
-- saved_models: Contains the trained models, that were achieved while working on the project.
+- `dog_app.ipynb`: Main notebook in which the image classifier is trained.
+- `extract_bottleneck_features.py`: Extracts the downloaded bottleneck features in /bottleneck_features.
+- `bottleneck_features`: Contains the bottleneck features that can be downloaded.
+- `haarcascades`: Haar feature-based cascade classifiers for face detection.
+- `images`: Contain images that were used in the notebook.
+- `requirements`: Requirements to run the project such as imports, libraries, etc.
+- `saved_models`: Contains the trained models, that were achieved while working on the project.
 
 ## Libraries & Installations:
 A full list of requirements can be found under `requirements/requirements.txt`
