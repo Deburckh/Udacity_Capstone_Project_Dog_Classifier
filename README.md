@@ -1,7 +1,7 @@
 # Project: Dog Breed Classifier
 
 ## Summary:
-This project is part of the Udacity Data Scientis Nanodegree.
+This project is part of the Udacity Data Scientis Nanodegree. A full blog post detailing the project can be found here: https://medium.com/@Dennis.Burckhardt/how-to-become-a-dog-expert-in-5-minutes-e3f5567b666b
 
 The goal of this project is to apply the data science skills learned in the course to build a CNN which can classify the breed of a dog from a given picture. Furthermore if a given picture shows a human, the model classifies the dog breed that is the most ressembling.
 
