@@ -10,22 +10,13 @@ The goal of this project is to apply the data science skills learned in the cour
 
 ## Files 
 
-The project mainly consists of a jupyter notebook:
-
-dog_app.ipynb
-The images and test images for the notebook and the testing of the algorithm can be found in the images and test_images folders.
-
-Following files have to be imported as modules within the notebook:
-
-extract_bottleneck_features.py
-The Haar feature-based cascade classifiers for face detection can be found in the haarcascades folder
-
-The folder saved_models contains the trained models, that I achieved while working on the project:
-
-ResNet50_model.h5 and weights.best.ResNet50_0.3_1024.hdf5 (ResNet50 models with highest accuracy achieved)
-weights.best.VGG16.hdf5(VGG16 model of step 4 of the notebook)
-weights.best.VGG19_0.15_256.hdf5(example of VGG19 model with an added dense layer with 256 nodes and a dropout layer with a dopout rate of 0.15)
-
+- dog_app.ipynb: Main notebook in which the image classifier is trained.
+- extract_bottleneck_features.py: Extracts the downloaded bottleneck features in /bottleneck_features.
+- bottleneck_features: Contains the bottleneck features that can be downloaded.
+- haarcascades: Haar feature-based cascade classifiers for face detection.
+- images: Contain images that were used in the notebook.
+- requirements: Requirements to run the project such as imports, libraries, etc.
+- saved_models: Contains the trained models, that were achieved while working on the project.
 
 ## Libraries & Installations:
 A full list of requirements can be found under `requirements/requirements.txt`
